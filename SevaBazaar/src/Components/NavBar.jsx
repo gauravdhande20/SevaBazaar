@@ -3,9 +3,9 @@ import React from 'react'
 function NavBar() {
   return (
     <div>
-      <section className="bg-blue-500 text-white p-4">
-        <h1 className="text-xl font-bold">NavBar</h1>
-        <nav className="flex space-x-4">
+      <section className="bg-[#f2e4aa] text-[#6e4d42] p-4 flex justify-between items-center shadow-md">
+        <h1 className="text-xl font-bold">NGOMart</h1>
+        <nav className="flex space-x-4 flex items-center gap-15">
           <a href="#" className="hover:underline">Home</a>
           <a href="#" className="hover:underline">Products</a>
           <a href="#" className="hover:underline">Services</a>

@@ -1,15 +1,14 @@
 import React from 'react'
-import carddata from './../../public/items.json'
+// import carddata from './../../public/items.json'
 import { BrowserRouter } from "react-router-dom";
 
 import { CiHeart } from "react-icons/ci";
 import { FaPlus } from "react-icons/fa6";
 
-function BuyingCard(props) {
+function Cards(props) {
   return (
     <>
-
-
+     
       <div className='h-[45vh] w-[40vh] mr-auto ml-auto mt-10 rounded-3xl bg-[#1b2922] flex items-center flex-col relative'>
         <div className="w-[80%] bg-amber-100 h-[45%] mt-5 rounded-2xl bg-center bg-cover flex justify-between" style={{ backgroundImage: `url(${props.url})` }}>
           <div className='h-7 w-15  bg-black absolute  top-3 left-5 rounded-[5px] flex justify-center items-center' style={{ backgroundColor: `${props.color}`, display: props.offer }}>
@@ -31,10 +30,11 @@ function BuyingCard(props) {
         </div>
         <div className='h-12 w-12 rounded-full bg-[#151d1f] flex justify-center items-center absolute  bottom-4 right-3'> <FaPlus className='text-amber-50 text-2xl' /> </div>
       </div>
+     
 
     </>
   )
 
 }
 
-export default BuyingCard
+export default Cards

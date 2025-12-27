@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "url": "../assets/Category/ShopCate/Woolen1.jpg",
+        "title": "Woolen Products",
+        "desc": "Warm & Cozy essentials"
+    },
+    {
+        "id": 2,
+        "url":"../assets/Category/ShopCate/Handicraft1.jpg",
+        "title": "Handicrafts",
+        "desc": "Traditional Art"
+    },
+    {
+        "id": 3,
+        "url":"../assets/Category/ShopCate/HomeDecor1.jpg",
+        "title": "Home Décor",
+        "desc": "Interior Styling"
+    },
+    {
+        "id": 4,
+        "url":"../assets/Category/ShopCate/EcoProducts1.jpg",
+        "title": "Eco Products",
+        "desc": "Sustainable Living"
+    }
+]

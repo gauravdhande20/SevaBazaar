@@ -13,10 +13,10 @@ function App() {
     <>
       {/* <NavBar/>
       <HeroSec/> */}
+     <ShopCategory/>
      <BasicCard/>
       {/* <Footer/> */}
       
-     <ShopCategory/>
         </>
   )
 }

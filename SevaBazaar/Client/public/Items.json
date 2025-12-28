@@ -1,12 +1,12 @@
 [
     {
         "id":1,
-        "Catg":"Fruites",
-        "Name":"Organic Red Apples",
+        "Catg":"Handicrafts .Asha Foundation",
+        "Name":"Woven Jute Tote Bag",
         "url":"./../src/assets/Category/img1.png",
-        "price":"₹ 650",
-        "prv_price":"₹800",
-        "tagline":"best seller",
+        "price":"$24.00",
+        "prv_price":"4.8",
+        "tagline":"WOMEN'S COLLECTIVE",
         "quantity":"1kg Pack",
         "color":"#31e87a",
         "off":"Best Seller"
@@ -72,8 +72,6 @@
         "url":"./../src/assets/Category/img1.png",
         "price":"₹ 650",
         "prv_price":"₹800",
-        "tagline":"best seller",
-        "quantity":"1kg Pack",
         "color":"#31e87a",
         "off":"Best Seller"
         

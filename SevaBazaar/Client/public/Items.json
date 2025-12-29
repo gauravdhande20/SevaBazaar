@@ -91,5 +91,20 @@
     }
 
     
+    ,{
+        "id":7,
+        "Catg":"Fruites",
+        "Name":"Organic Red Apples",
+        "url":"./../src/assets/Category/img1.png",
+        "price":"$19.0",
+        "prv_price":"4.1",
+        "tagline":"best seller",
+        "quantity":"1kg Pack",
+        "color":"#31e87a",
+        "off":"Best Seller"
+        
+    }
+
+    
     
 ]

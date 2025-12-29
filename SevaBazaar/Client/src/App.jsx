@@ -1,9 +1,10 @@
 import React from 'react'
-// import NavBar from './Components/NavBar.jsx'
-// import HeroSec from './Components/HeroSec.jsx' 
+import NavBar from './Components/NavBar.jsx'
+import HeroSec from './Components/HeroSec.jsx' 
 import BasicCard from './Components/BasicCard.jsx'
  
-// import Footer from './Components/Footer.jsx'
+import Footer from './Components/Footer.jsx'
+import WhyShop from './Components/WhyShop.jsx'
 
 import ShopCategory from './Components/ShopCategory.jsx';
 
@@ -11,11 +12,12 @@ import ShopCategory from './Components/ShopCategory.jsx';
 function App() {
   return (
     <>
-      {/* <NavBar/>
-      <HeroSec/> */}
+      <NavBar/>
+      <HeroSec/>
      <ShopCategory/>
      <BasicCard/>
-      {/* <Footer/> */}
+      <WhyShop/>
+      <Footer/>
       
         </>
   )

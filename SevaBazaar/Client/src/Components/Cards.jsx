@@ -13,8 +13,8 @@ function Cards(props) {
      
       <div className='h-[55vh] w-[45vh] mr-auto ml-auto mt-10 rounded-3xl bg-[#ffffff] flex items-center flex-col relative'>
         <div className="w-[100%] h-[75%] rounded-2xl bg-center bg-cover flex justify-between" style={{ backgroundImage: `url(${props.url})` }}>
-          <div className='h-7 w-15  bg-black absolute  top-3 left-5 rounded-[5px] flex justify-center items-center' style={{ backgroundColor: `${props.color}`, display: props.offer }}>
-            <h1 className='text-[10px] font-bold text-white'>{props.off}</h1>
+          <div className='h-auto w-auto  bg-black absolute px-3 py-0.5 top-3 left-5 rounded-[10px] flex justify-center items-center' style={{ backgroundColor: `${props.color}`, display: props.offer }}>
+            <h1 className='text-[10px] font-bold text-[#6e4d42]  '>{props.off}</h1>
           </div>
           <div className='h-9 w-9 rounded-full bg-[#6e4d42] flex justify-center items-center absolute  top-3 right-5'><CiHeart className='text-amber-50 text-2xl ' /></div>
         </div>

@@ -8,7 +8,7 @@ function Footer() {
     return (
         <>
             <footer className="bg-[#2e2e2e] ">
-                <div className="bg-[#2e2e2e] p-6 mt-10 shadow-inner flex justify-around text-white grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 border-b-2 border-[#949ba6] ">
+                <div className="bg-[#2e2e2e] p-6  shadow-inner flex justify-around text-white grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 border-b-2 border-[#949ba6] ">
 
                     <div className="container-1 list-none flex flex-col gap-4">
                         <h1 className='font-extrabold text-2xl text-white'>NGOMart</h1>

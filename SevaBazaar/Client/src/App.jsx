@@ -1,23 +1,13 @@
 import React from 'react'
-import NavBar from './Components/NavBar.jsx'
-import HeroSec from './Components/HeroSec.jsx' 
-import BasicCard from './Components/BasicCard.jsx'
- 
-import Footer from './Components/Footer.jsx'
-import WhyShop from './Components/WhyShop.jsx'
-
-import ShopCategory from './Components/ShopCategory.jsx';
-
+// import Home from './Pages/Home.jsx'
+import AboutHero from './Components/AboutHero'
 
 function App() {
   return (
     <>
-      <NavBar/>
-      <HeroSec/>
-     <ShopCategory/>
-     <BasicCard/>
-      <WhyShop/>
-      <Footer/>
+     <AboutHero/>
+     
+ 
       
         </>
   )

@@ -1,4 +1,5 @@
 import React from 'react'
+import { IoIosPeople } from "react-icons/io";
 
 function WhyShop() {
   return (

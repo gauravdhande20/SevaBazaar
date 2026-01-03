@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "title":"Our Mission",
+        "disc":"To democratize the digital marketplace for NGOs, enabling them to showcase the exceptional skills of their beneficiaries. We strive to eliminate middlemen, ensuring fair wages and dignifying labor for artisans in underprivileged communities."
+
+    },
+    {
+        "id":2,
+        "title":"Our Vision",
+        "disc":"A world where ethical consumption is the norm and every artisan has the opportunity to thrive. We envision a sustainable ecosystem where commerce acts as a force for good, preserving traditional crafts while building resilient futures."
+
+    }
+
+]

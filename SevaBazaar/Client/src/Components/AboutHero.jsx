@@ -5,7 +5,7 @@ function AboutHero() {
         <>
             <section className='h-screen w-full bg-[#f2e4aa] flex items-center justify-center '>
 
-                <div className=''>
+                <div className=' grid grid-cols-1 lg:grid-cols-2 gap-10 items-center'>
 
                     {/* left */}
                     <div>
@@ -15,19 +15,19 @@ function AboutHero() {
                             Empowering <span className="text-green-600 underline">Hands</span>{" "}
 
                         </h1>
-                         <p className="text-gray-700 max-w-xl">
-            We are a mission-driven marketplace dedicated to bridging the
-gap between local NGOs and conscious global consumers. We
-believe that every handmade product tells a story of resilience
+                        <p className="text-gray-700 max-w-xl">
+                            We are a mission-driven marketplace dedicated to bridging the
+                            gap between local NGOs and conscious global consumers. We
+                            believe that every handmade product tells a story of resilience
 
-and hope.
-          </p>
+                            and hope.
+                        </p>
 
-          <div>
-            <button className="bg-[#6B4B3E] text-white px-6 py-3 rounded-full font-semibold hover:bg-[#5a3f34] transition">
-              Learn More
-            </button>
-          </div>
+                        <div>
+                            <button className="bg-[#6B4B3E] text-white px-6 py-3 rounded-full font-semibold hover:bg-[#5a3f34] transition">
+                                Learn More
+                            </button>
+                        </div>
 
 
                     </div>

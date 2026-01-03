@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "icon":"<FaPeopleRoof />",
+        "icon":"FaPeopleRoof" ,
         "title":"Fair Compensation",
         "desc":"We ensure that artisans and farmers receive fair wages for their work, promoting economic empowerment and sustainability."
     },
@@ -13,7 +13,7 @@
     },
     {
         "id":3,
-        "icon":"<FaPeopleRoof />",
+        "icon":"<SiBetfair />",
         "title":"Sustainable Practices",
         "desc":"Promoting eco-friendly production methods that respect the environment and preserve traditional crafts."
     }

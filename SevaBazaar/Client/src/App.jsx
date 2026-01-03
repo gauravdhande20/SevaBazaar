@@ -1,14 +1,15 @@
 import React from 'react'
-// import Home from './Pages/Home.jsx'
-import WhyPurchesCard from './Components/WhyPurchesCard'
+import Home from './Pages/Home.jsx'
+
 
 
 function App() {
   return (
     <>
-     <WhyPurchesCard/>
-     {/* <Home/>
-      */}
+     
+      
+     <Home/>
+     
  
       
         </>

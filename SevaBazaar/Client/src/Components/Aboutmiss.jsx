@@ -6,7 +6,7 @@ import AboutMis from "../../public/AboutMis.json"
 function Aboutmiss() {
   return (
     <>
-     <section className='bg-[#fff8e0] w-full py-10  flex gap-19 px-6'>
+     <section className='bg-[#fff8e0] w-full py-10  flex gap-19 px-16'>
        {
         AboutMis.map(qwe =>{
             return(

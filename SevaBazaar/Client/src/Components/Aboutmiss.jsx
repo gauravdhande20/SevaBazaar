@@ -12,6 +12,7 @@ function Aboutmiss() {
             return(
                 <MissViCard
                 key={qwe.id}
+                icon={qwe.icon}
                 title={qwe.title}
                 disc={qwe.disc}
                 

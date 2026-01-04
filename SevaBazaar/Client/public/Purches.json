@@ -1,19 +1,19 @@
 [
     {
         "id":1,
-        "icon":"FaPeopleRoof" ,
+        "icon":"card" ,
         "title":"Fair Compensation",
         "desc":"We ensure that artisans and farmers receive fair wages for their work, promoting economic empowerment and sustainability."
     },
     {
         "id":2,
-        "icon":"<FaPeopleRoof />",
+        "icon":"team",
         "title":"Community Growth",
         "desc":"Proceeds help fund local schools, healthcare, and infrastructure projects in artisan communities."
     },
     {
         "id":3,
-        "icon":"<SiBetfair />",
+        "icon":"recy",
         "title":"Sustainable Practices",
         "desc":"Promoting eco-friendly production methods that respect the environment and preserve traditional crafts."
     }

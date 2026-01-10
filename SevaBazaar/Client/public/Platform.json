@@ -1,8 +1,27 @@
 [
     {
         "id":1,
-        "color":"",
+        "icon":"home",
+        "heading":"1. Dedicated Storefronts",
+        "dis":"Verified NGOs get their own digital space to list products, tell their stories, and manage inventory with zero listing fees."
         
         
-    }
-]
+    },
+
+    {
+        "id":2,
+        "icon":"earth",
+        "heading":"2. Global Reach",
+        "dis":"We connect these local listings to a worldwide audience of conscious buyers looking for authentic, ethical products."
+        
+        
+    },
+
+    {
+        "id":3,
+        "icon":"heart",
+        "heading":"3.Direct Impact",
+        "dis":"Proceeds go directly to the NGO bank accounts, funding education, healthcare, and raw materials for the next cycle materials for the next cycle.."
+        
+        
+    }]

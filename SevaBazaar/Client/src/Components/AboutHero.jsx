@@ -3,7 +3,7 @@ import React from 'react'
 function AboutHero() {
     return (
         <>
-            <section className='h-screen w-full bg-[#f2e4aa] flex items-center justify-center '>
+            <section className='h-screen w-full bg-[#f2e4aa] flex items-center justify-center px-6 '>
 
                 <div className=' grid grid-cols-1 lg:grid-cols-2 gap-10 items-center'>
 

@@ -1,14 +1,14 @@
 import React from 'react'
 // import Home from './Pages/Home.jsx'
-// import AboutUs from './Pages/AboutUs' 
+import AboutUs from './Pages/AboutUs' 
 import LeafImageUpload from './Components/LeafImageUpload'
 
 function App() {
   return (
     <>
      
-      <LeafImageUpload />
-      {/* <AboutUs/> */}
+      {/* <LeafImageUpload /> */}
+      <AboutUs/>
      {/* <Home/> */}
      
  
